@@ -1,0 +1,111 @@
+{
+  "TC/6/2026/08372": {
+    "job_no": "TC/6/2026/08372",
+    "batchNo": "25",
+    "vehicleNo": "TEST 1",
+    "makeModel": "TEST 1",
+    "accidentDate": "30 Aug 2026",
+    "inspectionDate": "31 Aug 2026",
+    "finishDate": "12 Oct 2026",
+    "totalAss": 1283.45,
+    "repairDays": "2",
+    "photoQty": "20",
+    "modelCode": "A48",
+    "globalPercentage": "150",
+    "paintLabourEst": "100",
+    "paintLabourAss": "80",
+    "paintMatEst": "100",
+    "paintMatAss": "80",
+    "step1Data": {
+      "ownerName": "TEST 1",
+      "ownerAddr1": "TEST 1",
+      "ownerAddr2": "TEST 1",
+      "ownerAddr3": "TEST 1",
+      "yearMake": "2025",
+      "chassisNo": "TEST 1",
+      "engineNo": "TEST 1",
+      "engineCap": "1998",
+      "powerRating": "15.0",
+      "motorNo": "TEST 1",
+      "colour": "TEST 1",
+      "mileage": "123456",
+      "wheelCount": "4",
+      "tyres": [
+        {
+          "brand": "YOKOHAMA",
+          "size": "215/45R19",
+          "mm": "7"
+        },
+        {
+          "brand": "YOKOHAMA",
+          "size": "215/45R19",
+          "mm": "7"
+        },
+        {
+          "brand": "YOKOHAMA",
+          "size": "215/45R19",
+          "mm": "7"
+        },
+        {
+          "brand": "YOKOHAMA",
+          "size": "215/45R19",
+          "mm": "7"
+        }
+      ],
+      "damagedPos": "FRONT & REAR",
+      "wsName": "TEST 123",
+      "wsAddr1": "TEST 123",
+      "wsAddr2": "TEST 123",
+      "wsAddr3": "TEST 123"
+    },
+    "parts": [
+      {
+        "qty": "1",
+        "name": "FRONT BUMPER",
+        "code": "DF",
+        "nett": "523.00"
+      },
+      {
+        "qty": "12",
+        "name": "front bumper clip",
+        "code": "ne",
+        "nett": "2.00"
+      }
+    ],
+    "misc": [
+      {
+        "qty": "1",
+        "desc": "LICENSE PLATE",
+        "code": "BR",
+        "est": "25",
+        "ass": "25"
+      },
+      {
+        "qty": "1",
+        "desc": "LICENSE PLATE CASING",
+        "code": "BR",
+        "est": "20",
+        "ass": "20"
+      }
+    ],
+    "labourChecks": [
+      {
+        "index": 0,
+        "est": "400",
+        "ass": "300"
+      },
+      {
+        "index": 1,
+        "est": "60",
+        "ass": "20"
+      }
+    ],
+    "customLabour": [
+      {
+        "desc": "To blah blah blah...",
+        "est": "60",
+        "ass": "20"
+      }
+    ]
+  }
+}
